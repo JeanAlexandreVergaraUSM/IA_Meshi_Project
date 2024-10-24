@@ -107,7 +107,7 @@ Los modelos utilizados están basados en ResNet18 entrenados previamente para id
 ```
 ## Datos Personales
 
-### Estudiantes
+### Estudiantes:
 1) Fernando Zamora
 -Rol: 
 
