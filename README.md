@@ -108,6 +108,7 @@ Los modelos utilizados están basados en ResNet18 entrenados previamente para id
 ## Datos Personales
 
 ### Estudiantes:
+```
 1) Fernando Zamora
 -Rol: 
 
@@ -116,7 +117,7 @@ Los modelos utilizados están basados en ResNet18 entrenados previamente para id
 
 3) Jean Alexandre
 -Rol: 202230562-2
-
+```
 
 
 
