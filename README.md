@@ -4,11 +4,11 @@ Este proyecto utiliza una IA para reconocer alimentos capturados por una cámara
 
 ## Estructura del Proyecto
 
-IA_Meshi_Project/ 
+```IA_Meshi_Project/ 
 └── backend/ │ ├── pycache/ │ ├── camera_capture.py │ ├── main.py │ ├── recipe_generator.py │ ├── transfer_learning_model.py │ 
 └── Entreno/ │ ├── best_model4.pth │ ├── best_model4.txt │ ├── best_model6.pth │ ├── best_model6.txt │ 
 └── frontend/ │ ├── app.py │ ├── camera_stream.py │ 
-└── Fondo.jpg
+└── Fondo.jpg```
 
 
 ## Requisitos Previos
