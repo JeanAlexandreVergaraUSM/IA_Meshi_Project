@@ -89,15 +89,15 @@ streamlit run app.py
 El backend utiliza FastAPI para servir dos rutas principales:
 POST /generate_recipe/: Recibe la imagen capturada, predice el alimento utilizando modelos preentrenados, y genera una receta usando GPT-2.
 
-# Frontend
+### Frontend
 El frontend está basado en Streamlit y muestra el video en vivo de la cámara. Al presionar un botón, captura la imagen, llama al backend para predecir el alimento y muestra la receta generada.
 
-# Modelos
+### Modelos
 Los modelos utilizados están basados en ResNet18 entrenados previamente para identificar varios alimentos. Los archivos .pth contienen los pesos de los modelos y están ubicados en la carpeta Entreno.
 
-## Estructura del Código
+### Estructura del Código
 
-# Archivos Importantes:
+## Archivos Importantes:
 ```
 -backend/main.py: Punto de entrada del backend. Inicia FastAPI y expone las rutas necesarias para generar recetas.
 -backend/transfer_learning_model.py: Carga los modelos entrenados para identificar alimentos.
@@ -105,9 +105,9 @@ Los modelos utilizados están basados en ResNet18 entrenados previamente para id
 -frontend/app.py: Contiene la lógica de la interfaz de usuario con Streamlit.
 -frontend/camera_stream.py: Muestra el video en vivo y captura imágenes desde la cámara utilizando Flask y OpenCV.
 ```
-### Datos Personales
+## Datos Personales
 
-# Estudiantes
+### Estudiantes
 1) Fernando Zamora
 -Rol: 
 
