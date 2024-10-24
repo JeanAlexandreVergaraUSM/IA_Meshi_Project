@@ -22,19 +22,33 @@ sudo apt install python3.8 python3.8-venv python3.8-dev
 ```
   
 - **FastAPI**
-
 ```
-sudo apt install python3.8 python3.8-venv python3.8-dev
-```
-
-- **Uvicorn**
-
 pip install fastapi
+```
+- **Uvicorn**
+```
+pip install uvicorn
+```
 - **Streamlit**
+```
+pip install streamlit
+``` 
 - **Torch**
+```
+pip install torch torchvision
+```
 - **Transformers (Hugging Face)**
+```
+pip install transformers
+```
 - **OpenCV**
+```
+pip install opencv-python
+```
 - **Googletrans**
+```
+pip install googletrans==4.0.0rc1
+```
 
 ## Configuración del Proyecto
 
