@@ -105,7 +105,7 @@ Los modelos utilizados están basados en ResNet18 entrenados previamente para id
 -frontend/app.py: Contiene la lógica de la interfaz de usuario con Streamlit.
 -frontend/camera_stream.py: Muestra el video en vivo y captura imágenes desde la cámara utilizando Flask y OpenCV.
 ```
-## Datos Personales
+### Datos Personales
 
 # Estudiantes
 1) Fernando Zamora
