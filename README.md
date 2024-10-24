@@ -86,10 +86,10 @@ Los modelos utilizados están basados en ResNet18 entrenados previamente para id
 
 # Estudiantes
 1) Fernando Zamora
--Rol:
+-Rol: 
 
 2) Lorenzo Gonzalez
--Rol:
+-Rol: 202230550-9
 
 3) Jean Alexandre
 -Rol: 202230562-2
