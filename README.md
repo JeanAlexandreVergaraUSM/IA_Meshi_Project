@@ -17,8 +17,19 @@ Este proyecto utiliza una IA para reconocer alimentos capturados por una cámara
 Para ejecutar este proyecto, necesitarás tener instalado:
 
 - **Python 3.8+**
+```
+sudo apt install python3.8 python3.8-venv python3.8-dev
+```
+  
 - **FastAPI**
+
+```
+sudo apt install python3.8 python3.8-venv python3.8-dev
+```
+
 - **Uvicorn**
+
+pip install fastapi
 - **Streamlit**
 - **Torch**
 - **Transformers (Hugging Face)**
@@ -37,6 +48,7 @@ cd IA_Meshi_Project
 python3 -m venv myenv
 source myenv/bin/activate  # Activar entorno virtual en Linux
 ```
+
 ## Ejecución del Backend
 
 1.Navega a la carpeta backend:
