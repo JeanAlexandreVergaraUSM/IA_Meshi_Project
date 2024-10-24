@@ -53,10 +53,12 @@ pip install googletrans==4.0.0rc1
 ## Configuración del Proyecto
 
 1.Clona este repositorio:
-
+```
 git clone https://github.com/JeanAlexandreVergaraUSM/IA_Meshi_Project.git
+```
+```
 cd IA_Meshi_Project
-
+```
 2.Crea un entorno virtual:
 ```
 python3 -m venv myenv
