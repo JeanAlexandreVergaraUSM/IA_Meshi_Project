@@ -33,34 +33,35 @@ git clone https://github.com/JeanAlexandreVergaraUSM/IA_Meshi_Project.git
 cd IA_Meshi_Project
 
 2.Crea un entorno virtual:
-
+```
 python3 -m venv myenv
 source myenv/bin/activate  # Activar entorno virtual en Linux
+```
 
 3.Instala las dependencias:
-
+```
 pip install -r requirements.txt
-
+```
 ## Ejecución del Backend
 
 1.Navega a la carpeta backend:
-
+```
 cd backend
-
+```
 2.Ejecuta el servidor de FastAPI utilizando uvicorn:
-
+```
 uvicorn main:app --reload
-
+```
 ## Ejecución del Frontend
 
 1.Navega a la carpeta frontend:
-
+```
 cd frontend
-
+```
 2.Ejecuta la aplicación de Streamlit:
-
+```
 streamlit run app.py
-
+```
 ## Funcionamiento del Proyecto
 
 # Backend
