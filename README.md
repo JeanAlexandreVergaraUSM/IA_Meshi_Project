@@ -98,12 +98,13 @@ Los modelos utilizados están basados en ResNet18 entrenados previamente para id
 ## Estructura del Código
 
 # Archivos Importantes:
+```
 -backend/main.py: Punto de entrada del backend. Inicia FastAPI y expone las rutas necesarias para generar recetas.
 -backend/transfer_learning_model.py: Carga los modelos entrenados para identificar alimentos.
 -backend/recipe_generator.py: Genera recetas a partir de los alimentos detectados utilizando GPT-2.
 -frontend/app.py: Contiene la lógica de la interfaz de usuario con Streamlit.
 -frontend/camera_stream.py: Muestra el video en vivo y captura imágenes desde la cámara utilizando Flask y OpenCV.
-
+```
 ## Datos Personales
 
 # Estudiantes
