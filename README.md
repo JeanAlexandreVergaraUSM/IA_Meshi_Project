@@ -37,11 +37,6 @@ cd IA_Meshi_Project
 python3 -m venv myenv
 source myenv/bin/activate  # Activar entorno virtual en Linux
 ```
-
-3.Instala las dependencias:
-```
-pip install -r requirements.txt
-```
 ## Ejecución del Backend
 
 1.Navega a la carpeta backend:
