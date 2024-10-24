@@ -1,0 +1,15 @@
+Asparagus
+Aubergine
+Brown-Cap-Mushroom
+Cabbage
+Carrots
+Cucumber
+Garlic
+Ginger
+Leek
+Onion
+Pepper
+Potato
+Red-Beet
+Tomato
+Zucchini
