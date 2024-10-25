@@ -112,7 +112,7 @@ Los modelos utilizados están basados en ResNet18 entrenados previamente para id
 ### Estudiantes:
 ```
 1) Fernando Zamora
--Rol: 
+-Rol: 202230541-k
 
 2) Lorenzo Gonzalez
 -Rol: 202230550-9
